@@ -7,9 +7,9 @@
 5) Automation framework is added 
 
 # Test Cases Covered
-  >registered user only can login
-  >Login validation 
-  >Register form validation
+  1.registered user only can login
+  2.Login validation 
+  3.Register form validation
   >Register form Error validations
   >Register form Password validations
   >Register form password strength validation
